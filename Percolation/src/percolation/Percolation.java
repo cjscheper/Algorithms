@@ -4,6 +4,7 @@
  */
 package percolation;
 
+
 /**
  *
  * @author cscheper
